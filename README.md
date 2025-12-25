@@ -50,4 +50,4 @@ This analysis reveals that the time for loan approvals has moderate variability.
 Krish Verma
 
 ##Medium Blog Post Link
-https://medium.com/@krishv553/statistical-analysis-of-bank-loan-approval-time-using-python-6e00dd8280ef
+> https://medium.com/@krishv553/statistical-analysis-of-bank-loan-approval-time-using-python-6e00dd8280ef
